@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/css/main.b37535ec.css",
+    "main.js": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/js/main.87b3419a.js",
+    "static/media/img2.jpg": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/img2.099974fa96727f01c240.jpg",
+    "static/media/consultimg.jpg": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/consultimg.4db75bcf840b6de05cb9.jpg",
+    "static/media/pagenotfound.jpg": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/pagenotfound.38a2ceebb514ace0d870.jpg",
+    "static/media/fa-solid-900.ttf": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/https//manjuashbind.github.io/React-Doctors-Booking-App/index.html",
+    "main.b37535ec.css.map": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/css/main.b37535ec.css.map",
+    "main.87b3419a.js.map": "/https//manjuashbind.github.io/React-Doctors-Booking-App/static/js/main.87b3419a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37535ec.css",
+    "static/js/main.87b3419a.js"
+  ]
+}
